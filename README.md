@@ -1,11 +1,11 @@
 ### Hello there 👋
 
-My name is Nicholas Sacayan,
+My name is nksacayan,
 
-- 🔭 I’m currently working on scoring an entry level software engineering job!
+- 🔭 I'm currently working on radar software in a defense company.
 - 🌱 I’m currently learning web-development technologies such as Node, NET, Spring, and Database Systems!
 - 👯 I’m looking to collaborate on open source projects, web or desktop apps, or games!
-- 🤔 I’m looking for help with my early career development.
+- 🤔 I’m looking for help with my early career development and exploration.
 - 📫 How to reach me: https://www.linkedin.com/in/nicholas-sacayan/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I enjoy game development as a side hobby!
