@@ -3,7 +3,7 @@
 My name is nksacayan,
 
 - 🔭 I'm currently working on radar software in a defense company.
-- 🌱 I’m currently learning web-development technologies such as Node, NET, Spring, and Database Systems!
+- 🌱 I’m currently learning web-development technologies such as Node, React, and Database Systems!
 - 👯 I’m looking to collaborate on open source projects, web or desktop apps, or games!
 - 🤔 I’m looking for help with my early career development and exploration.
 - 📫 How to reach me: https://www.linkedin.com/in/nicholas-sacayan/
